@@ -34,7 +34,7 @@ This project is a software application developed to simplify the process of cour
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/course-registration-system.git
+   git clone https://github.com/ps123poo/CR-SCM-Porject.git
    ```
 2. Navigate to the project directory
 
