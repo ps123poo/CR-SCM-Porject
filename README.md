@@ -27,7 +27,7 @@ This project is a software application developed to simplify the process of cour
 
   * Frontend: HTML, CSS, JavaScript
   * Backend: Python(Flask)
-  * Database: MySQL / MongoDB
+  * Database: MySQL 
 
 ### Installation
 
