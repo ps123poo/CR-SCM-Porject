@@ -1,0 +1,45 @@
+{
+  "tests": [
+    {
+      "name": "Register Student",
+      "input": {
+        "username": "alice",
+        "password": "1234"
+      },
+      "expected": "success"
+    },
+    {
+      "name": "Login Student",
+      "input": {
+        "username": "alice",
+        "password": "1234"
+      },
+      "expected": "login_success"
+    },
+    {
+      "name": "Create Course",
+      "input": {
+        "course_id": "CS101",
+        "course_name": "Computer Science",
+        "capacity": 50
+      },
+      "expected": "course_created"
+    },
+    {
+      "name": "Enroll Course",
+      "input": {
+        "username": "alice",
+        "course_id": "CS101"
+      },
+      "expected": "enrolled"
+    },
+    {
+      "name": "Drop Course",
+      "input": {
+        "username": "alice",
+        "course_id": "CS101"
+      },
+      "expected": "dropped"
+    }
+  ]
+}
